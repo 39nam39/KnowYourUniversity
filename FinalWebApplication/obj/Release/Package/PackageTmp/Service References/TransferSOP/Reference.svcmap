@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d3af3a99-fb8b-4c3d-bc64-28489dd0c5ea" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar23.fulton.asu.edu/page3/TransferSOP.TransferSOPService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TransferSOPService.wsdl" MetadataType="Wsdl" ID="a9a29aaf-6cb7-4309-b275-c01f77fd47c2" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page3/TransferSOP.TransferSOPService.svc?wsdl" />
+    <MetadataFile FileName="TransferSOP.disco" MetadataType="Disco" ID="0e67feba-3899-4252-a0f0-63145a492837" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page3/TransferSOP.TransferSOPService.svc?disco" />
+    <MetadataFile FileName="TransferSOP.xsd" MetadataType="Schema" ID="36f3a8b5-1564-4025-9fc2-4f2b44dfe675" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page3/TransferSOP.TransferSOPService.svc?xsd=xsd2" />
+    <MetadataFile FileName="TransferSOP1.xsd" MetadataType="Schema" ID="09769381-075e-4dbc-85ab-fd200aab8bb0" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page3/TransferSOP.TransferSOPService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TransferSOP2.xsd" MetadataType="Schema" ID="2aceea3d-ef05-4eb9-94ee-592f122dfdbe" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page3/TransferSOP.TransferSOPService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

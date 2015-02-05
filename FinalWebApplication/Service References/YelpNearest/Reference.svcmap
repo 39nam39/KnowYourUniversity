@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4dfc2c0b-f72d-4ec6-b083-bf80a8d42fa2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar23.fulton.asu.edu/page0/page01/YelpServices.YelpService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="YelpServices.xsd" MetadataType="Schema" ID="5067e11b-8532-4253-8a07-a271967def21" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?xsd=xsd0" />
+    <MetadataFile FileName="YelpServices1.xsd" MetadataType="Schema" ID="f0620979-2d20-4f2d-b7e6-fb47272fcf15" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?xsd=xsd2" />
+    <MetadataFile FileName="YelpServices.disco" MetadataType="Disco" ID="3b4071c6-9b25-4561-a58d-41c5ac791cb3" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?disco" />
+    <MetadataFile FileName="YelpService.wsdl" MetadataType="Wsdl" ID="bc4f4a91-8492-4964-842e-3b8569dec96e" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?wsdl" />
+    <MetadataFile FileName="YelpServices2.xsd" MetadataType="Schema" ID="3d286f98-9ec4-4a9d-b427-9f804faba9fc" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?xsd=xsd4" />
+    <MetadataFile FileName="YelpServices3.xsd" MetadataType="Schema" ID="0ebd50e0-47bb-4884-ab7d-ac2449a11c23" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?xsd=xsd3" />
+    <MetadataFile FileName="YelpServices4.xsd" MetadataType="Schema" ID="57efbb7b-4456-41fd-a8d3-2a4b443faf38" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="43b57b69-273f-4dc1-8f63-1de1125daf52" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://webstrar23.fulton.asu.edu/page5/number.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="number.xsd" MetadataType="Schema" ID="edb32833-7811-4650-8b46-072fec086da3" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page5/number.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="aa340efe-b947-40c8-97a1-a9a22c05fb6a" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page5/number.svc?wsdl" />
+    <MetadataFile FileName="number.disco" MetadataType="Disco" ID="700bef0d-46a6-450c-9cc8-2897a7faef03" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page5/number.svc?disco" />
+    <MetadataFile FileName="number1.xsd" MetadataType="Schema" ID="22f463ed-2fbb-47c4-8120-a1d21600f403" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page5/number.svc?xsd=xsd0" />
+    <MetadataFile FileName="number2.xsd" MetadataType="Schema" ID="eb4bfd87-1cd2-483f-ace6-17110fd82dd2" SourceId="1" SourceUrl="http://webstrar23.fulton.asu.edu/Page5/number.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

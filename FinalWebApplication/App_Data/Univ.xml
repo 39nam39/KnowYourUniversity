@@ -1,0 +1,433 @@
+<?xml version="1.0"?>
+<Universities>
+<University><ID>144218 </ID><Name>Abilene Christian University </Name><StreetAddress>1600 Campus Court</StreetAddress><City>Abilene</City><State>TX</State><Zipcode>79699</Zipcode></University>
+<University><ID>129251 </ID><Name>Adelphi University </Name><StreetAddress>South Ave</StreetAddress><City>Garden City</City><State>NY</State><Zipcode>11530-0701</Zipcode></University>
+<University><ID>122083 </ID><Name>Albion College </Name><StreetAddress>611 E Porter St</StreetAddress><City>Albion</City><State>MI</State><Zipcode>49224</Zipcode></University>
+<University><ID>129321 </ID><Name>Alfred University </Name><StreetAddress>One Saxon Dr</StreetAddress><City>Alfred</City><State>NY</State><Zipcode>14802-1205</Zipcode></University>
+<University><ID>122117 </ID><Name>Alma College </Name><StreetAddress>614 W. Superior Street</StreetAddress><City>Alma</City><State>MI</State><Zipcode>48801-1599</Zipcode></University>
+<University><ID>108816 </ID><Name>American University </Name><StreetAddress>4400 Massachusetts Avenue N.W.</StreetAddress><City>Washington</City><State>DC</State><Zipcode>20016</Zipcode></University>
+<University><ID>122135 </ID><Name>Andrews University </Name><StreetAddress>US 31 North</StreetAddress><City>Berrien Springs</City><State>MI</State><Zipcode>49104</Zipcode></University>
+<University><ID>133049 </ID><Name>Appalachian State University </Name><StreetAddress></StreetAddress><City>Boone</City><State>NC</State><Zipcode>28608</Zipcode></University>
+<University><ID>101019 </ID><Name>Arizona State University </Name><StreetAddress>P.O. Box 2203</StreetAddress><City>Tempe</City><State>AZ</State><Zipcode>85287</Zipcode></University>
+<University><ID>112367 </ID><Name>Augustana College </Name><StreetAddress>639 38th St</StreetAddress><City>Rock Island</City><State>IL</State><Zipcode>61201-2296</Zipcode></University>
+<University><ID>142762 </ID><Name>Augustana College </Name><StreetAddress>2001 S Summit Ave</StreetAddress><City>Sioux Falls</City><State>SD</State><Zipcode>57197-0001</Zipcode></University>
+<University><ID>102605 </ID><Name>Azusa Pacific University </Name><StreetAddress>901 E Alosta</StreetAddress><City>Azusa</City><State>CA</State><Zipcode>91702-7000</Zipcode></University>
+<University><ID>134936 </ID><Name>Baldwin-Wallace College </Name><StreetAddress>275 Eastland Rd</StreetAddress><City>Berea</City><State>OH</State><Zipcode>44017-2088</Zipcode></University>
+<University><ID>114558 </ID><Name>Ball State University </Name><StreetAddress>2000 University Ave</StreetAddress><City>Muncie</City><State>IN</State><Zipcode>47306</Zipcode></University>
+<University><ID>129473 </ID><Name>Barnard College </Name><StreetAddress>3009 Broadway</StreetAddress><City>New York</City><State>NY</State><Zipcode>10027-6598</Zipcode></University>
+<University><ID>144494 </ID><Name>Baylor University </Name><StreetAddress>500 Speight Ave.</StreetAddress><City>Waco</City><State>TX</State><Zipcode>76798</Zipcode></University>
+<University><ID>117380 </ID><Name>Bellarmine University </Name><StreetAddress>2001 Newburg Rd</StreetAddress><City>Louisville</City><State>KY</State><Zipcode>40205-0671</Zipcode></University>
+<University><ID>143136 </ID><Name>Belmont University </Name><StreetAddress>1900 Belmont Blvd</StreetAddress><City>Nashville</City><State>TN</State><Zipcode>37212-3757</Zipcode></University>
+<University><ID>117399 </ID><Name>Berea College </Name><StreetAddress>101 Chestnut Street</StreetAddress><City>Berea</City><State>KY</State><Zipcode>40404-2182</Zipcode></University>
+<University><ID>111018 </ID><Name>Berry College </Name><StreetAddress>2277 Martha Berry Hwy NW</StreetAddress><City>Mount Berry</City><State>GA</State><Zipcode>30149</Zipcode></University>
+<University><ID>116633 </ID><Name>Bethany College </Name><StreetAddress>335 E. Swensson Street</StreetAddress><City>Lindsborg</City><State>KS</State><Zipcode>67456</Zipcode></University>
+<University><ID>149286 </ID><Name>Bethany College </Name><StreetAddress>Old Main</StreetAddress><City>Bethany</City><State>WV</State><Zipcode>26032</Zipcode></University>
+<University><ID>114567 </ID><Name>Bethel College </Name><StreetAddress>1001 W McKinley Ave</StreetAddress><City>Mishawaka</City><State>IN</State><Zipcode>46545</Zipcode></University>
+<University><ID>116642 </ID><Name>Bethel College </Name><StreetAddress>300 E 27th St</StreetAddress><City>North Newton</City><State>KS</State><Zipcode>67117-0531</Zipcode></University>
+<University><ID>123518 </ID><Name>Bethel University </Name><StreetAddress>3900 Bethel Drive</StreetAddress><City>St. Paul</City><State>MN</State><Zipcode>55112</Zipcode></University>
+<University><ID>143145 </ID><Name>Bethel University </Name><StreetAddress>325 Cherry Avenue</StreetAddress><City>McKenzie</City><State>TN</State><Zipcode>38201</Zipcode></University>
+<University><ID>102669 </ID><Name>Biola University </Name><StreetAddress>13800 Biola Ave</StreetAddress><City>La Mirada</City><State>CA</State><Zipcode>90639-0001</Zipcode></University>
+<University><ID>120786 </ID><Name>Boston College </Name><StreetAddress>140 Commonwealth Ave</StreetAddress><City>Chestnut Hill</City><State>MA</State><Zipcode>02467</Zipcode></University>
+<University><ID>120801 </ID><Name>Boston University </Name><StreetAddress>One Sherborn St.</StreetAddress><City>Boston</City><State>MA</State><Zipcode>02215</Zipcode></University>
+<University><ID>134990 </ID><Name>Bowling Green State University </Name><StreetAddress>1001 East Wooster Street</StreetAddress><City>Bowling Green</City><State>OH</State><Zipcode>43403</Zipcode></University>
+<University><ID>112473 </ID><Name>Bradley University </Name><StreetAddress>1501 W Bradley Ave</StreetAddress><City>Peoria</City><State>IL</State><Zipcode>61625-0001</Zipcode></University>
+<University><ID>146746 </ID><Name>Brigham Young University </Name><StreetAddress>Main Campus</StreetAddress><City>Provo</City><State>UT</State><Zipcode>84602</Zipcode></University>
+<University><ID>141875 </ID><Name>Brown University </Name><StreetAddress>Prospect St</StreetAddress><City>Providence</City><State>RI</State><Zipcode>02912</Zipcode></University>
+<University><ID>138965 </ID><Name>Bucknell University </Name><StreetAddress>Dent Drive</StreetAddress><City>Lewisburg</City><State>PA</State><Zipcode>17837</Zipcode></University>
+<University><ID>114576 </ID><Name>Butler University </Name><StreetAddress>4600 Sunset Ave</StreetAddress><City>Indianapolis</City><State>IN</State><Zipcode>46208</Zipcode></University>
+<University><ID>102809 </ID><Name>California Lutheran University </Name><StreetAddress>60 W Olsen Rd</StreetAddress><City>Thousand Oaks</City><State>CA</State><Zipcode>91360-2787</Zipcode></University>
+<University><ID>122199 </ID><Name>Calvin College </Name><StreetAddress>3201 Burton Street SE</StreetAddress><City>Grand Rapids</City><State>MI</State><Zipcode>49546</Zipcode></University>
+<University><ID>135054 </ID><Name>Capital University </Name><StreetAddress>1 College and Main</StreetAddress><City>Columbus</City><State>OH</State><Zipcode>43209-2394</Zipcode></University>
+<University><ID>139074 </ID><Name>Carnegie Mellon University </Name><StreetAddress>5000 Forbes Ave</StreetAddress><City>Pittsburgh</City><State>PA</State><Zipcode>15213-3890</Zipcode></University>
+<University><ID>126492 </ID><Name>Carroll College </Name><StreetAddress>1601 N Benton Ave</StreetAddress><City>Helena</City><State>MT</State><Zipcode>59625-0002</Zipcode></University>
+<University><ID>149897 </ID><Name>Carroll University </Name><StreetAddress>100 N East Ave</StreetAddress><City>Waukesha</City><State>WI</State><Zipcode>53186</Zipcode></University>
+<University><ID>135106 </ID><Name>Case Western Reserve University </Name><StreetAddress>10900 Euclid Ave</StreetAddress><City>Cleveland</City><State>OH</State><Zipcode>44106</Zipcode></University>
+<University><ID>108825 </ID><Name>Catholic University of America </Name><StreetAddress>"620 Michigan Avenue</StreetAddress><City> NE"</City><State>Washington</State><Zipcode>DC</Zipcode></University>
+<University><ID>139083 </ID><Name>Cedar Crest College </Name><StreetAddress>100 College Drive</StreetAddress><City>Allentown</City><State>PA</State><Zipcode>18104-6196</Zipcode></University>
+<University><ID>135115 </ID><Name>Cedarville University </Name><StreetAddress>251 N. Main Street</StreetAddress><City>Cedarville</City><State>OH</State><Zipcode>45314-0601</Zipcode></University>
+<University><ID>118383 </ID><Name>Centenary College of Louisiana </Name><StreetAddress>2911 Centenary Boulevard</StreetAddress><City>Shreveport</City><State>LA</State><Zipcode>71134-1188</Zipcode></University>
+<University><ID>115773 </ID><Name>Central College </Name><StreetAddress>812 University</StreetAddress><City>Pella</City><State>IA</State><Zipcode>50219</Zipcode></University>
+<University><ID>122232 </ID><Name>Central Michigan University </Name><StreetAddress>106 Warriner Hall</StreetAddress><City>Mount Pleasant</City><State>MI</State><Zipcode>48859</Zipcode></University>
+<University><ID>103370 </ID><Name>Chapman University </Name><StreetAddress>One University Dr.</StreetAddress><City>Orange</City><State>CA</State><Zipcode>92866</Zipcode></University>
+<University><ID>143181 </ID><Name>Christian Brothers University </Name><StreetAddress>650 E Parkway S</StreetAddress><City>Memphis</City><State>TN</State><Zipcode>38104</Zipcode></University>
+<University><ID>142212 </ID><Name>Claflin University </Name><StreetAddress>400 Magnolia Street</StreetAddress><City>Orangeburg</City><State>SC</State><Zipcode>29115-4498</Zipcode></University>
+<University><ID>129844 </ID><Name>Clarkson University </Name><StreetAddress></StreetAddress><City>Potsdam</City><State>NY</State><Zipcode>13699-5557</Zipcode></University>
+<University><ID>142221 </ID><Name>Clemson University </Name><StreetAddress>201 Sikes Hall</StreetAddress><City>Clemson</City><State>SC</State><Zipcode>29634</Zipcode></University>
+<University><ID>115791 </ID><Name>Coe College </Name><StreetAddress>1220 First Ave NE</StreetAddress><City>Cedar Rapids</City><State>IA</State><Zipcode>52402-5092</Zipcode></University>
+<University><ID>127389 </ID><Name>Colby-Sawyer College </Name><StreetAddress>541 Main St</StreetAddress><City>New London</City><State>NH</State><Zipcode>03257-7835</Zipcode></University>
+<University><ID>142179 </ID><Name>College of Charleston </Name><StreetAddress>66 George Street</StreetAddress><City>Charleston</City><State>SC</State><Zipcode>29424-0001</Zipcode></University>
+<University><ID>121196 </ID><Name>College of the Holy Cross </Name><StreetAddress>One College Street</StreetAddress><City>Worcester</City><State>MA</State><Zipcode>01610-2395</Zipcode></University>
+<University><ID>147396 </ID><Name>College of William and Mary </Name><StreetAddress>P.O. Box 8795</StreetAddress><City>Williamsburg</City><State>VA</State><Zipcode>23187-8795</Zipcode></University>
+<University><ID>107451 </ID><Name>Colorado State University </Name><StreetAddress>102 Administration Building</StreetAddress><City>Fort Collins</City><State>CO</State><Zipcode>80523-0100</Zipcode></University>
+<University><ID>142285 </ID><Name>Converse College </Name><StreetAddress>580 E Main St</StreetAddress><City>Spartanburg</City><State>SC</State><Zipcode>29302-0006</Zipcode></University>
+<University><ID>130004 </ID><Name>Cornell University </Name><StreetAddress>300 Day Hall</StreetAddress><City>Ithaca</City><State>NY</State><Zipcode>14853</Zipcode></University>
+<University><ID>126836 </ID><Name>Creighton University </Name><StreetAddress>2500 California Plaza</StreetAddress><City>Omaha</City><State>NE</State><Zipcode>68178</Zipcode></University>
+<University><ID>127413 </ID><Name>Dartmouth College </Name><StreetAddress></StreetAddress><City>Hanover</City><State>NH</State><Zipcode>03755-3529</Zipcode></University>
+<University><ID>112844 </ID><Name>DePaul University </Name><StreetAddress>1 East Jackson Blvd.</StreetAddress><City>Chicago</City><State>IL</State><Zipcode>60604</Zipcode></University>
+<University><ID>114655 </ID><Name>DePauw University </Name><StreetAddress>313 S Locust St</StreetAddress><City>Greencastle</City><State>IN</State><Zipcode>46135-1772</Zipcode></University>
+<University><ID>118480 </ID><Name>Dillard University </Name><StreetAddress>2601 Gentilly Blvd</StreetAddress><City>New Orleans</City><State>LA</State><Zipcode>70122</Zipcode></University>
+<University><ID>126854 </ID><Name>Doane College </Name><StreetAddress>1014 Boswell Avenue</StreetAddress><City>Crete</City><State>NE</State><Zipcode>68333</Zipcode></University>
+<University><ID>115852 </ID><Name>Dordt College </Name><StreetAddress>498 4th Ave NE</StreetAddress><City>Sioux Center</City><State>IA</State><Zipcode>51250-1697</Zipcode></University>
+<University><ID>115861 </ID><Name>Drake University </Name><StreetAddress>2507 University Ave</StreetAddress><City>Des Moines</City><State>IA</State><Zipcode>50311-4505</Zipcode></University>
+<University><ID>128054 </ID><Name>Drew University </Name><StreetAddress>36 Madison Ave</StreetAddress><City>Madison</City><State>NJ</State><Zipcode>07940</Zipcode></University>
+<University><ID>139311 </ID><Name>Drexel University </Name><StreetAddress>3141 Chestnut St</StreetAddress><City>Philadelphia</City><State>PA</State><Zipcode>19104</Zipcode></University>
+<University><ID>125295 </ID><Name>Drury University </Name><StreetAddress>900 N. Benton Ave.</StreetAddress><City>Springfield</City><State>MO</State><Zipcode>65802-3791</Zipcode></University>
+<University><ID>133368 </ID><Name>Duke University </Name><StreetAddress>103 Allen Bldg</StreetAddress><City>Durham</City><State>NC</State><Zipcode>27708</Zipcode></University>
+<University><ID>139348 </ID><Name>Duquesne University </Name><StreetAddress>Administration Bldg 600 Forbes Ave</StreetAddress><City>Pittsburgh</City><State>PA</State><Zipcode>15282</Zipcode></University>
+<University><ID>114682 </ID><Name>Earlham College </Name><StreetAddress>801 National Rd West</StreetAddress><City>Richmond</City><State>IN</State><Zipcode>47374-4095</Zipcode></University>
+<University><ID>133386 </ID><Name>East Carolina University </Name><StreetAddress>East 5th Street</StreetAddress><City>Greenville</City><State>NC</State><Zipcode>27858-4353</Zipcode></University>
+<University><ID>117520 </ID><Name>Eastern Kentucky University </Name><StreetAddress>521 Lancaster Ave</StreetAddress><City>Richmond</City><State>KY</State><Zipcode>40475-3102</Zipcode></University>
+<University><ID>122445 </ID><Name>Eastern Michigan University </Name><StreetAddress>202 Welch</StreetAddress><City>Ypsilanti</City><State>MI</State><Zipcode>48197</Zipcode></University>
+<University><ID>109253 </ID><Name>Eckerd College </Name><StreetAddress>4200 54th Ave S</StreetAddress><City>Saint Petersburg</City><State>FL</State><Zipcode>33711-4700</Zipcode></University>
+<University><ID>139409 </ID><Name>Elizabethtown College </Name><StreetAddress>One Alpha Dr</StreetAddress><City>Elizabethtown</City><State>PA</State><Zipcode>17022-2298</Zipcode></University>
+<University><ID>112950 </ID><Name>Elmhurst College </Name><StreetAddress>190 Prospect Ave</StreetAddress><City>Elmhurst</City><State>IL</State><Zipcode>60126-3096</Zipcode></University>
+<University><ID>130369 </ID><Name>Elmira College </Name><StreetAddress>One Park Place</StreetAddress><City>Elmira</City><State>NY</State><Zipcode>14901</Zipcode></University>
+<University><ID>133410 </ID><Name>Elon University </Name><StreetAddress>100 Campus Drive</StreetAddress><City>Elon</City><State>NC</State><Zipcode>27244-2010</Zipcode></University>
+<University><ID>121008 </ID><Name>Emerson College </Name><StreetAddress>120 Boylston Street</StreetAddress><City>Boston</City><State>MA</State><Zipcode>02116-4624</Zipcode></University>
+<University><ID>111212 </ID><Name>Emory University </Name><StreetAddress>201 Dowman Drive</StreetAddress><City>Atlanta</City><State>GA</State><Zipcode>30322</Zipcode></University>
+<University><ID>142300 </ID><Name>Erskine College </Name><StreetAddress>2 Washington St</StreetAddress><City>Due West</City><State>SC</State><Zipcode>29639</Zipcode></University>
+<University><ID>108153 </ID><Name>Fairfield University </Name><StreetAddress>1073 N Benson Rd</StreetAddress><City>Fairfield</City><State>CT</State><Zipcode>06824-5195</Zipcode></University>
+<University><ID>128115 </ID><Name>Fairleigh Dickinson University </Name><StreetAddress>1000 River Road</StreetAddress><City>Teaneck</City><State>NJ</State><Zipcode>07666</Zipcode></University>
+<University><ID>143349 </ID><Name>Fisk University </Name><StreetAddress>1000 17th Ave N</StreetAddress><City>Nashville</City><State>TN</State><Zipcode>37208-4501</Zipcode></University>
+<University><ID>109314 </ID><Name>Florida Atlantic University </Name><StreetAddress>777 Glades Rd</StreetAddress><City>Boca Raton</City><State>FL</State><Zipcode>33431-0991</Zipcode></University>
+<University><ID>109420 </ID><Name>Florida International University </Name><StreetAddress>11200 SW 8th Street</StreetAddress><City>Miami</City><State>FL</State><Zipcode>33199</Zipcode></University>
+<University><ID>109475 </ID><Name>Florida Southern College </Name><StreetAddress>111 Lake Hollingsworth Drive</StreetAddress><City>Lakeland</City><State>FL</State><Zipcode>33801-5698</Zipcode></University>
+<University><ID>109484 </ID><Name>Florida State University </Name><StreetAddress>211 Westcott Bldg</StreetAddress><City>Tallahassee</City><State>FL</State><Zipcode>32306-1037</Zipcode></University>
+<University><ID>130448 </ID><Name>Fordham University </Name><StreetAddress>441 E Fordham Rd</StreetAddress><City>Bronx</City><State>NY</State><Zipcode>10458</Zipcode></University>
+<University><ID>142346 </ID><Name>Furman University </Name><StreetAddress>3300 Poinsett Highway</StreetAddress><City>Greenville</City><State>SC</State><Zipcode>29613-6162</Zipcode></University>
+<University><ID>138105 </ID><Name>George Fox University </Name><StreetAddress>414 N Meridian St</StreetAddress><City>Newberg</City><State>OR</State><Zipcode>97132</Zipcode></University>
+<University><ID>147581 </ID><Name>George Mason University </Name><StreetAddress>4400 University Dr</StreetAddress><City>Fairfax</City><State>VA</State><Zipcode>22030-4444</Zipcode></University>
+<University><ID>108889 </ID><Name>George Washington University </Name><StreetAddress>"2121 I Street</StreetAddress><City> NW"</City><State>Washington</State><Zipcode>DC</Zipcode></University>
+<University><ID>117575 </ID><Name>Georgetown College </Name><StreetAddress>400 East College Street</StreetAddress><City>Georgetown</City><State>KY</State><Zipcode>40324</Zipcode></University>
+<University><ID>108898 </ID><Name>Georgetown University </Name><StreetAddress>37th and O St NW</StreetAddress><City>Washington</City><State>DC</State><Zipcode>20057</Zipcode></University>
+<University><ID>111328 </ID><Name>Georgia Southern University </Name><StreetAddress>Hwy 301 S</StreetAddress><City>Statesboro</City><State>GA</State><Zipcode>30460</Zipcode></University>
+<University><ID>111337 </ID><Name>Georgia State University </Name><StreetAddress>33 Gilmer St SE</StreetAddress><City>Atlanta</City><State>GA</State><Zipcode>30302-3083</Zipcode></University>
+<University><ID>139658 </ID><Name>Gettysburg College </Name><StreetAddress>300 N Washington St</StreetAddress><City>Gettysburg</City><State>PA</State><Zipcode>17325-1486</Zipcode></University>
+<University><ID>148672 </ID><Name>Gonzaga University </Name><StreetAddress>E 502 Boone Ave</StreetAddress><City>Spokane</City><State>WA</State><Zipcode>99258-0001</Zipcode></University>
+<University><ID>121105 </ID><Name>Gordon College </Name><StreetAddress>255 Grapevine Rd</StreetAddress><City>Wenham</City><State>MA</State><Zipcode>01984</Zipcode></University>
+<University><ID>114743 </ID><Name>Goshen College </Name><StreetAddress>1700 S Main St</StreetAddress><City>Goshen</City><State>IN</State><Zipcode>46526-4794</Zipcode></University>
+<University><ID>122560 </ID><Name>Grand Valley State University </Name><StreetAddress>1 Campus Dr</StreetAddress><City>Allendale</City><State>MI</State><Zipcode>49401-9403</Zipcode></University>
+<University><ID>133508 </ID><Name>Guilford College </Name><StreetAddress>5800 W Friendly Ave</StreetAddress><City>Greensboro</City><State>NC</State><Zipcode>27410-4108</Zipcode></University>
+<University><ID>123651 </ID><Name>Gustavus Adolphus College </Name><StreetAddress>800 West College Avenue</StreetAddress><City>Saint Peter</City><State>MN</State><Zipcode>56082-1498</Zipcode></University>
+<University><ID>123660 </ID><Name>Hamline University </Name><StreetAddress>1536 Hewitt Avenue</StreetAddress><City>Saint Paul</City><State>MN</State><Zipcode>55104-1284</Zipcode></University>
+<University><ID>114798 </ID><Name>Hanover College </Name><StreetAddress>359 E. LaGrange Road</StreetAddress><City>Hanover</City><State>IN</State><Zipcode>47243</Zipcode></University>
+<University><ID>130536 </ID><Name>Hartwick College </Name><StreetAddress>One Hartwick Drive</StreetAddress><City>Oneonta</City><State>NY</State><Zipcode>13820-4020</Zipcode></University>
+<University><ID>121150 </ID><Name>Harvard University </Name><StreetAddress>Massachusetts Hall</StreetAddress><City>Cambridge</City><State>MA</State><Zipcode>02138</Zipcode></University>
+<University><ID>126872 </ID><Name>Hastings College </Name><StreetAddress>710 N Turner Ave</StreetAddress><City>Hastings</City><State>NE</State><Zipcode>68901</Zipcode></University>
+<University><ID>101967 </ID><Name>Hendrix College </Name><StreetAddress>1600 Washington Ave</StreetAddress><City>Conway</City><State>AR</State><Zipcode>72032-3080</Zipcode></University>
+<University><ID>133562 </ID><Name>High Point University </Name><StreetAddress>833 Montlieu Ave</StreetAddress><City>High Point</City><State>NC</State><Zipcode>27262-3598</Zipcode></University>
+<University><ID>135683 </ID><Name>Hiram College </Name><StreetAddress>P. O. Box 67</StreetAddress><City>Hiram</City><State>OH</State><Zipcode>44234</Zipcode></University>
+<University><ID>130581 </ID><Name>Hofstra University </Name><StreetAddress>100 Hofstra University</StreetAddress><City>Hempstead</City><State>NY</State><Zipcode>11549</Zipcode></University>
+<University><ID>120087 </ID><Name>Hood College </Name><StreetAddress>401 Rosemont Ave</StreetAddress><City>Frederick</City><State>MD</State><Zipcode>21701</Zipcode></University>
+<University><ID>122612 </ID><Name>Hope College </Name><StreetAddress>141 E 12th St</StreetAddress><City>Holland</City><State>MI</State><Zipcode>49423</Zipcode></University>
+<University><ID>130590 </ID><Name>Houghton College </Name><StreetAddress>1 Willard Ave</StreetAddress><City>Houghton</City><State>NY</State><Zipcode>14744</Zipcode></University>
+<University><ID>108913 </ID><Name>Howard University </Name><StreetAddress>2400 Sixth St NW</StreetAddress><City>Washington</City><State>DC</State><Zipcode>20059-0001</Zipcode></University>
+<University><ID>114831 </ID><Name>Huntington University </Name><StreetAddress>2303 College Ave</StreetAddress><City>Huntington</City><State>IN</State><Zipcode>46750</Zipcode></University>
+<University><ID>113218 </ID><Name>Illinois Institute of Technology </Name><StreetAddress>3300 S Federal St</StreetAddress><City>Chicago</City><State>IL</State><Zipcode>60616</Zipcode></University>
+<University><ID>113245 </ID><Name>Illinois State University </Name><StreetAddress>"1000 Illinois State University</StreetAddress><City> Campus Box 1000"</City><State>Normal</State><Zipcode>IL</Zipcode></University>
+<University><ID>113175 </ID><Name>Illinois Wesleyan University </Name><StreetAddress>1312 Park Street</StreetAddress><City>Bloomington</City><State>IL</State><Zipcode>61701</Zipcode></University>
+<University><ID>139834 </ID><Name>Indiana University of Pennsylvania </Name><StreetAddress>1011 South Drive</StreetAddress><City>Indiana</City><State>PA</State><Zipcode>15705-1085</Zipcode></University>
+<University><ID>130660 </ID><Name>Iona College </Name><StreetAddress>715 North Ave</StreetAddress><City>New Rochelle</City><State>NY</State><Zipcode>10801-1890</Zipcode></University>
+<University><ID>116077 </ID><Name>Iowa State University </Name><StreetAddress>1750 Beardshear Hall</StreetAddress><City>Ames</City><State>IA</State><Zipcode>50011</Zipcode></University>
+<University><ID>130697 </ID><Name>Ithaca College </Name><StreetAddress>953 Danby Rd</StreetAddress><City>Ithaca</City><State>NY</State><Zipcode>14850-7188</Zipcode></University>
+<University><ID>147660 </ID><Name>James Madison University </Name><StreetAddress>800 South Main Street</StreetAddress><City>Harrisonburg</City><State>VA</State><Zipcode>22807</Zipcode></University>
+<University><ID>101994 </ID><Name>John Brown University </Name><StreetAddress>2000 W University St</StreetAddress><City>Siloam Springs</City><State>AR</State><Zipcode>72761</Zipcode></University>
+<University><ID>135771 </ID><Name>John Carroll University </Name><StreetAddress>20700 North Park Blvd.</StreetAddress><City>University Heights</City><State>OH</State><Zipcode>44118-4581</Zipcode></University>
+<University><ID>120120 </ID><Name>Johns Hopkins University </Name><StreetAddress>3400 N Charles St</StreetAddress><City>Baltimore</City><State>MD</State><Zipcode>21218-2688</Zipcode></University>
+<University><ID>117016 </ID><Name>Kansas State University </Name><StreetAddress>110 Anderson Hall</StreetAddress><City>Manhattan</City><State>KS</State><Zipcode>66506</Zipcode></University>
+<University><ID>111434 </ID><Name>Kennesaw State University </Name><StreetAddress>1000 Chastain Rd    Mail Box  0110</StreetAddress><City>Kennesaw</City><State>GA</State><Zipcode>30144-5591</Zipcode></University>
+<University><ID>135869 </ID><Name>Kent State University </Name><StreetAddress>P.O. Box 5190</StreetAddress><City>Kent</City><State>OH</State><Zipcode>44242-0001</Zipcode></University>
+<University><ID>139940 </ID><Name>King's College </Name><StreetAddress>133 N River St</StreetAddress><City>Wilkes Barre</City><State>PA</State><Zipcode>18711-0801</Zipcode></University>
+<University><ID>139986 </ID><Name>La Salle University </Name><StreetAddress>1900 W Olney Ave</StreetAddress><City>Philadelphia</City><State>PA</State><Zipcode>19141-1199</Zipcode></University>
+<University><ID>111452 </ID><Name>LaGrange College </Name><StreetAddress>601 Broad St.</StreetAddress><City>Lagrange</City><State>GA</State><Zipcode>30240-2999</Zipcode></University>
+<University><ID>150075 </ID><Name>Lawrence University </Name><StreetAddress>PO Box 599</StreetAddress><City>Appleton</City><State>WI</State><Zipcode>54912</Zipcode></University>
+<University><ID>130819 </ID><Name>Le Moyne College </Name><StreetAddress>1419 Salt Springs Rd</StreetAddress><City>Syracuse</City><State>NY</State><Zipcode>13214-1399</Zipcode></University>
+<University><ID>140076 </ID><Name>Lebanon Valley College </Name><StreetAddress>101 N College Ave</StreetAddress><City>Annville</City><State>PA</State><Zipcode>17003-1400</Zipcode></University>
+<University><ID>140100 </ID><Name>Lehigh University </Name><StreetAddress>27 Memorial Dr W</StreetAddress><City>Bethlehem</City><State>PA</State><Zipcode>18015</Zipcode></University>
+<University><ID>138150 </ID><Name>Linfield College </Name><StreetAddress>900 SE Baker</StreetAddress><City>McMinnville</City><State>OR</State><Zipcode>97128-6894</Zipcode></University>
+<University><ID>104911 </ID><Name>Loyola Marymount University </Name><StreetAddress>One LMU Drive</StreetAddress><City>Los Angeles</City><State>CA</State><Zipcode>90045-2659</Zipcode></University>
+<University><ID>118806 </ID><Name>Loyola University New Orleans </Name><StreetAddress>6363 Saint Charles Ave</StreetAddress><City>New Orleans</City><State>LA</State><Zipcode>70118-6143</Zipcode></University>
+<University><ID>116183 </ID><Name>Luther College </Name><StreetAddress>700 College Drive</StreetAddress><City>Decorah</City><State>IA</State><Zipcode>52101-1045</Zipcode></University>
+<University><ID>101684 </ID><Name>Lyon College </Name><StreetAddress>2300 Highland Road</StreetAddress><City>Batesville</City><State>AR</State><Zipcode>72503</Zipcode></University>
+<University><ID>123758 </ID><Name>Macalester College </Name><StreetAddress>1600 Grand Avenue</StreetAddress><City>St. Paul</City><State>MN</State><Zipcode>55105-1899</Zipcode></University>
+<University><ID>136020 </ID><Name>Marietta College </Name><StreetAddress>215 Fifth Street</StreetAddress><City>Marietta</City><State>OH</State><Zipcode>45750</Zipcode></University>
+<University><ID>150109 </ID><Name>Marquette University </Name><StreetAddress>"P.O. Box 1881</StreetAddress><City> 615 N. Eleventh St."</City><State>Milwaukee</State><Zipcode>WI</Zipcode></University>
+<University><ID>143552 </ID><Name>Maryville College </Name><StreetAddress>502 E Lamar Alexander Pky</StreetAddress><City>Maryville</City><State>TN</State><Zipcode>37804-5907</Zipcode></University>
+<University><ID>111540 </ID><Name>Mercer University </Name><StreetAddress>1400 Coleman Avenue</StreetAddress><City>Macon</City><State>GA</State><Zipcode>31207</Zipcode></University>
+<University><ID>133739 </ID><Name>Meredith College </Name><StreetAddress>3800 Hillsborough St</StreetAddress><City>Raleigh</City><State>NC</State><Zipcode>27607-5298</Zipcode></University>
+<University><ID>140304 </ID><Name>Messiah College </Name><StreetAddress>One College Ave</StreetAddress><City>Grantham</City><State>PA</State><Zipcode>17027</Zipcode></University>
+<University><ID>109916 </ID><Name>Miami Dade College </Name><StreetAddress>300 NE 2nd Ave</StreetAddress><City>Miami</City><State>FL</State><Zipcode>33132-2297</Zipcode></University>
+<University><ID>122843 </ID><Name>Michigan State University </Name><StreetAddress>450 Administration Bldg.</StreetAddress><City>East Lansing</City><State>MI</State><Zipcode>48824-1046</Zipcode></University>
+<University><ID>143686 </ID><Name>Middle Tennessee State University </Name><StreetAddress>1301 East Main Street</StreetAddress><City>Murfreesboro</City><State>TN</State><Zipcode>37132</Zipcode></University>
+<University><ID>147165 </ID><Name>Middlebury College </Name><StreetAddress>Old Chapel</StreetAddress><City>Middlebury</City><State>VT</State><Zipcode>05753</Zipcode></University>
+<University><ID>113670 </ID><Name>Millikin University </Name><StreetAddress>1184 W Main St</StreetAddress><City>Decatur</City><State>IL</State><Zipcode>62522-2084</Zipcode></University>
+<University><ID>124742 </ID><Name>Millsaps College </Name><StreetAddress>1701 N State St</StreetAddress><City>Jackson</City><State>MS</State><Zipcode>39210-0001</Zipcode></University>
+<University><ID>150172 </ID><Name>Milwaukee School of Engineering </Name><StreetAddress>1025 N Broadway</StreetAddress><City>Milwaukee</City><State>WI</State><Zipcode>53202-3109</Zipcode></University>
+<University><ID>124812 </ID><Name>Mississippi College </Name><StreetAddress>200 South Capitol Street</StreetAddress><City>Clinton</City><State>MS</State><Zipcode>39058</Zipcode></University>
+<University><ID>124849 </ID><Name>Mississippi State University </Name><StreetAddress>610 Allen Hall</StreetAddress><City>Mississippi State</City><State>MS</State><Zipcode>39762</Zipcode></University>
+<University><ID>126313 </ID><Name>Missouri State University </Name><StreetAddress>901 S National</StreetAddress><City>Springfield</City><State>MO</State><Zipcode>65897</Zipcode></University>
+<University><ID>126641 </ID><Name>Montana Tech of the University of Montana </Name><StreetAddress>1300 W Park St</StreetAddress><City>Butte</City><State>MT</State><Zipcode>59701-8997</Zipcode></University>
+<University><ID>140386 </ID><Name>Moravian College </Name><StreetAddress>1200 Main St</StreetAddress><City>Bethlehem</City><State>PA</State><Zipcode>18018-6650</Zipcode></University>
+<University><ID>111568 </ID><Name>Morehouse College </Name><StreetAddress>830 Westview Dr SW</StreetAddress><City>Atlanta</City><State>GA</State><Zipcode>30314</Zipcode></University>
+<University><ID>117900 </ID><Name>Murray State University </Name><StreetAddress>218 Wells Hall</StreetAddress><City>Murray</City><State>KY</State><Zipcode>42071-3318</Zipcode></University>
+<University><ID>127060 </ID><Name>Nebraska Wesleyan University </Name><StreetAddress>5000 St Paul Ave</StreetAddress><City>Lincoln</City><State>NE</State><Zipcode>68504-2794</Zipcode></University>
+<University><ID>131423 </ID><Name>New York University </Name><StreetAddress>70 Washington Sq South</StreetAddress><City>New York</City><State>NY</State><Zipcode>10012-1091</Zipcode></University>
+<University><ID>121716 </ID><Name>Northeastern University </Name><StreetAddress>360 Huntington Ave</StreetAddress><City>Boston</City><State>MA</State><Zipcode>02115</Zipcode></University>
+<University><ID>101365 </ID><Name>Northern Arizona University </Name><StreetAddress>P.O. Box 4092</StreetAddress><City>Flagstaff</City><State>AZ</State><Zipcode>86011</Zipcode></University>
+<University><ID>113838 </ID><Name>Northern Illinois University </Name><StreetAddress>1425 West Lincoln Highway</StreetAddress><City>Dekalb</City><State>IL</State><Zipcode>60115-2828</Zipcode></University>
+<University><ID>116271 </ID><Name>Northwestern College </Name><StreetAddress>101 Seventh St SW</StreetAddress><City>Orange City</City><State>IA</State><Zipcode>51041</Zipcode></University>
+<University><ID>113865 </ID><Name>Northwestern University </Name><StreetAddress>633 Clark St</StreetAddress><City>Evanston</City><State>IL</State><Zipcode>60208</Zipcode></University>
+<University><ID>136330 </ID><Name>Oberlin College </Name><StreetAddress>70 N Professor St</StreetAddress><City>Oberlin</City><State>OH</State><Zipcode>44074</Zipcode></University>
+<University><ID>136394 </ID><Name>Ohio Northern University </Name><StreetAddress>525 Main St</StreetAddress><City>Ada</City><State>OH</State><Zipcode>45810-1599</Zipcode></University>
+<University><ID>136598 </ID><Name>Ohio Wesleyan University </Name><StreetAddress>61 S Sandusky Street</StreetAddress><City>Delaware</City><State>OH</State><Zipcode>43015-2370</Zipcode></University>
+<University><ID>137634 </ID><Name>Oklahoma Baptist University </Name><StreetAddress>500 W University</StreetAddress><City>Shawnee</City><State>OK</State><Zipcode>74804</Zipcode></University>
+<University><ID>137616 </ID><Name>Oklahoma State University </Name><StreetAddress>107 Whitehurst Hall</StreetAddress><City>Stillwater</City><State>OK</State><Zipcode>74078</Zipcode></University>
+<University><ID>137324 </ID><Name>Oklahoma Wesleyan University </Name><StreetAddress>2201 Silver Lake Rd</StreetAddress><City>Bartlesville</City><State>OK</State><Zipcode>74006-6299</Zipcode></University>
+<University><ID>147864 </ID><Name>Old Dominion University </Name><StreetAddress>5115 Hampton Blvd</StreetAddress><City>Norfolk</City><State>VA</State><Zipcode>23529</Zipcode></University>
+<University><ID>138309 </ID><Name>Oregon Institute of Technology </Name><StreetAddress>3201 Campus Drive</StreetAddress><City>Klamath Falls</City><State>OR</State><Zipcode>97601-8801</Zipcode></University>
+<University><ID>138327 </ID><Name>Oregon State University </Name><StreetAddress></StreetAddress><City>Corvallis</City><State>OR</State><Zipcode>97331</Zipcode></University>
+<University><ID>102128 </ID><Name>Ouachita Baptist University </Name><StreetAddress>410 Ouachita St</StreetAddress><City>Arkadelphia</City><State>AR</State><Zipcode>71998-0001</Zipcode></University>
+<University><ID>148919 </ID><Name>Pacific Lutheran University </Name><StreetAddress>1010 122nd St So</StreetAddress><City>Tacoma</City><State>WA</State><Zipcode>98447-0003</Zipcode></University>
+<University><ID>138354 </ID><Name>Pacific University </Name><StreetAddress>2043 College Way</StreetAddress><City>Forest Grove</City><State>OR</State><Zipcode>97116</Zipcode></University>
+<University><ID>105905 </ID><Name>Pepperdine University </Name><StreetAddress>24255 Pacific Coast Hwy</StreetAddress><City>Malibu</City><State>CA</State><Zipcode>90263</Zipcode></University>
+<University><ID>142531 </ID><Name>Presbyterian College </Name><StreetAddress>503 S Broad St</StreetAddress><City>Clinton</City><State>SC</State><Zipcode>29325</Zipcode></University>
+<University><ID>141954 </ID><Name>Providence College </Name><StreetAddress>River Ave and Eaton St</StreetAddress><City>Providence</City><State>RI</State><Zipcode>02918</Zipcode></University>
+<University><ID>108472 </ID><Name>Quinnipiac University </Name><StreetAddress>275 Mount Carmel Ave</StreetAddress><City>Hamden</City><State>CT</State><Zipcode>06518</Zipcode></University>
+<University><ID>141963 </ID><Name>Rhode Island College </Name><StreetAddress>600 Mount Pleasant Ave</StreetAddress><City>Providence</City><State>RI</State><Zipcode>02908</Zipcode></University>
+<University><ID>143844 </ID><Name>Rhodes College </Name><StreetAddress>2000 North Parkway</StreetAddress><City>Memphis</City><State>TN</State><Zipcode>38112-1690</Zipcode></University>
+<University><ID>128586 </ID><Name>Rider University </Name><StreetAddress>2083 Lawrenceville Road</StreetAddress><City>Lawrenceville</City><State>NJ</State><Zipcode>08648-3099</Zipcode></University>
+<University><ID>131821 </ID><Name>Rochester Institute of Technology </Name><StreetAddress>1 Lomb Memorial Dr</StreetAddress><City>Rochester</City><State>NY</State><Zipcode>14623-5603</Zipcode></University>
+<University><ID>126085 </ID><Name>Rockhurst University </Name><StreetAddress>1100 Rockhurst Rd</StreetAddress><City>Kansas City</City><State>MO</State><Zipcode>64110-2561</Zipcode></University>
+<University><ID>110282 </ID><Name>Rollins College </Name><StreetAddress>1000 Holt Ave</StreetAddress><City>Winter Park</City><State>FL</State><Zipcode>32789-4499</Zipcode></University>
+<University><ID>134149 </ID><Name>Salem College </Name><StreetAddress>601 S Church St</StreetAddress><City>Winston Salem</City><State>NC</State><Zipcode>27101</Zipcode></University>
+<University><ID>145901 </ID><Name>Sam Houston State University </Name><StreetAddress>1803 Ave I</StreetAddress><City>Huntsville</City><State>TX</State><Zipcode>77341</Zipcode></University>
+<University><ID>100609 </ID><Name>Samford University </Name><StreetAddress>800 Lakeshore Drive</StreetAddress><City>Birmingham</City><State>AL</State><Zipcode>35229-2240</Zipcode></University>
+<University><ID>106245 </ID><Name>San Diego State University </Name><StreetAddress>5500 Campanile Dr</StreetAddress><City>San Diego</City><State>CA</State><Zipcode>92182</Zipcode></University>
+<University><ID>106281 </ID><Name>San Francisco State University </Name><StreetAddress>1600 Holloway Ave</StreetAddress><City>San Francisco</City><State>CA</State><Zipcode>94132</Zipcode></University>
+<University><ID>106397 </ID><Name>San Jose State University </Name><StreetAddress>1 Washington Sq</StreetAddress><City>San Jose</City><State>CA</State><Zipcode>95192-0001</Zipcode></University>
+<University><ID>106467 </ID><Name>Santa Clara University </Name><StreetAddress>500 El Camino Real</StreetAddress><City>Santa Clara</City><State>CA</State><Zipcode>95053</Zipcode></University>
+<University><ID>149028 </ID><Name>Seattle Pacific University </Name><StreetAddress>3307 3rd Ave W</StreetAddress><City>Seattle</City><State>WA</State><Zipcode>98119-1997</Zipcode></University>
+<University><ID>149037 </ID><Name>Seattle University </Name><StreetAddress>900 Broadway</StreetAddress><City>Seattle</City><State>WA</State><Zipcode>98122-4340</Zipcode></University>
+<University><ID>128692 </ID><Name>Seton Hall University </Name><StreetAddress>400 S Orange Ave</StreetAddress><City>South Orange</City><State>NJ</State><Zipcode>07079-2697</Zipcode></University>
+<University><ID>132028 </ID><Name>Siena College </Name><StreetAddress>515 Loudon Rd</StreetAddress><City>Loudonville</City><State>NY</State><Zipcode>12211-1462</Zipcode></University>
+<University><ID>121859 </ID><Name>Simmons College </Name><StreetAddress>300 the Fenway</StreetAddress><City>Boston</City><State>MA</State><Zipcode>02115-5898</Zipcode></University>
+<University><ID>116402 </ID><Name>Simpson College </Name><StreetAddress>701 North C St</StreetAddress><City>Indianola</City><State>IA</State><Zipcode>50125</Zipcode></University>
+<University><ID>132046 </ID><Name>Skidmore College </Name><StreetAddress>815 N Broadway</StreetAddress><City>Saratoga Springs</City><State>NY</State><Zipcode>12866</Zipcode></University>
+<University><ID>142629 </ID><Name>South Carolina State University </Name><StreetAddress>300 College St NE</StreetAddress><City>Orangeburg</City><State>SC</State><Zipcode>29117-0001</Zipcode></University>
+<University><ID>119234 </ID><Name>Southeastern Louisiana University </Name><StreetAddress>548 Western Ave.</StreetAddress><City>Hammond</City><State>LA</State><Zipcode>70402</Zipcode></University>
+<University><ID>146047 </ID><Name>Southern Methodist University </Name><StreetAddress>6425 Boaz St</StreetAddress><City>Dallas</City><State>TX</State><Zipcode>75275-0221</Zipcode></University>
+<University><ID>146092 </ID><Name>Southwestern University </Name><StreetAddress>1001 University Ave</StreetAddress><City>Georgetown</City><State>TX</State><Zipcode>78626</Zipcode></University>
+<University><ID>111753 </ID><Name>Spelman College </Name><StreetAddress>350 Spelman Ln SW</StreetAddress><City>Atlanta</City><State>GA</State><Zipcode>30314-4399</Zipcode></University>
+<University><ID>100654 </ID><Name>Spring Hill College </Name><StreetAddress>4000 Dauphin St</StreetAddress><City>Mobile</City><State>AL</State><Zipcode>36608-1791</Zipcode></University>
+<University><ID>151634 </ID><Name>Stanford University </Name><StreetAddress></StreetAddress><City>Stanford</City><State>CA</State><Zipcode>94305</Zipcode></University>
+<University><ID>110477 </ID><Name>Stetson University </Name><StreetAddress>421 N Woodland Blvd</StreetAddress><City>DeLand</City><State>FL</State><Zipcode>32723</Zipcode></University>
+<University><ID>141468 </ID><Name>Susquehanna University </Name><StreetAddress>514 University Ave</StreetAddress><City>Selinsgrove</City><State>PA</State><Zipcode>17870-1025</Zipcode></University>
+<University><ID>132578 </ID><Name>Syracuse University </Name><StreetAddress>"900 S. Crouse Ave</StreetAddress><City> Suite 600"</City><State>Syracuse</State><Zipcode>NY</Zipcode></University>
+<University><ID>115621 </ID><Name>Taylor University </Name><StreetAddress>236 W Reade Ave</StreetAddress><City>Upland</City><State>IN</State><Zipcode>46989-1001</Zipcode></University>
+<University><ID>141501 </ID><Name>Temple University </Name><StreetAddress>1801 North Broad Street</StreetAddress><City>Philadelphia</City><State>PA</State><Zipcode>19122-6096</Zipcode></University>
+<University><ID>146375 </ID><Name>Texas Christian University </Name><StreetAddress>2800 S University Dr</StreetAddress><City>Fort Worth</City><State>TX</State><Zipcode>76129</Zipcode></University>
+<University><ID>146472 </ID><Name>Texas Tech University </Name><StreetAddress>2500 Broadway</StreetAddress><City>Lubbock</City><State>TX</State><Zipcode>79409-5005</Zipcode></University>
+<University><ID>142203 </ID><Name>The Citadel </Name><StreetAddress>171 Moultrie Street</StreetAddress><City>Charleston</City><State>SC</State><Zipcode>29409</Zipcode></University>
+<University><ID>120421 </ID><Name>Towson University </Name><StreetAddress>8000 York Rd</StreetAddress><City>Towson</City><State>MD</State><Zipcode>21252-0001</Zipcode></University>
+<University><ID>118161 </ID><Name>Transylvania University </Name><StreetAddress>300 N Broadway</StreetAddress><City>Lexington</City><State>KY</State><Zipcode>40508-1797</Zipcode></University>
+<University><ID>114406 </ID><Name>Trinity International University </Name><StreetAddress>2065 Half Day Rd</StreetAddress><City>Deerfield</City><State>IL</State><Zipcode>60015-1283</Zipcode></University>
+<University><ID>146524 </ID><Name>Trinity University </Name><StreetAddress>One Trinity Place</StreetAddress><City>San Antonio</City><State>TX</State><Zipcode>78212-7200</Zipcode></University>
+<University><ID>125967 </ID><Name>Truman State University </Name><StreetAddress>100 E Normal</StreetAddress><City>Kirksville</City><State>MO</State><Zipcode>63501-4221</Zipcode></University>
+<University><ID>121956 </ID><Name>Tufts University </Name><StreetAddress>"Ballou Hall</StreetAddress><City> 2nd Floor"</City><State>Medford</State><Zipcode>MA</Zipcode></University>
+<University><ID>119331 </ID><Name>Tulane University </Name><StreetAddress>6823 Saint Charles Ave</StreetAddress><City>New Orleans</City><State>LA</State><Zipcode>70118-5698</Zipcode></University>
+<University><ID>100742 </ID><Name>Tuskegee University </Name><StreetAddress>"Kresge Center</StreetAddress><City> 3rd Floor"</City><State>Tuskegee</State><Zipcode>AL</Zipcode></University>
+<University><ID>118204 </ID><Name>Union College </Name><StreetAddress>310 College St</StreetAddress><City>Barbourville</City><State>KY</State><Zipcode>40906-1499</Zipcode></University>
+<University><ID>127158 </ID><Name>Union College </Name><StreetAddress>3800 S 48th</StreetAddress><City>Lincoln</City><State>NE</State><Zipcode>68506</Zipcode></University>
+<University><ID>144139 </ID><Name>Union University </Name><StreetAddress>1050 Union University Dr</StreetAddress><City>Jackson</City><State>TN</State><Zipcode>38305-3697</Zipcode></University>
+<University><ID>101037 </ID><Name>University of Arizona </Name><StreetAddress>1401 E University</StreetAddress><City>Tucson</City><State>AZ</State><Zipcode>85721-0066</Zipcode></University>
+<University><ID>109174 </ID><Name>University of Central Florida </Name><StreetAddress>4000 Central Florida Blvd</StreetAddress><City>Orlando</City><State>FL</State><Zipcode>32816</Zipcode></University>
+<University><ID>112686 </ID><Name>University of Chicago </Name><StreetAddress>5801 S Ellis Ave</StreetAddress><City>Chicago</City><State>IL</State><Zipcode>60637</Zipcode></University>
+<University><ID>108108 </ID><Name>University of Connecticut </Name><StreetAddress>352 Mansfield Rd.</StreetAddress><City>Storrs</City><State>CT</State><Zipcode>06269</Zipcode></University>
+<University><ID>144795 </ID><Name>University of Dallas </Name><StreetAddress>1845 E Northgate</StreetAddress><City>Irving</City><State>TX</State><Zipcode>75062-4736</Zipcode></University>
+<University><ID>135461 </ID><Name>University of Dayton </Name><StreetAddress>300 College Pk</StreetAddress><City>Dayton</City><State>OH</State><Zipcode>45469</Zipcode></University>
+<University><ID>108755 </ID><Name>University of Delaware </Name><StreetAddress>104 Hullihen Hall</StreetAddress><City>Newark</City><State>DE</State><Zipcode>19716</Zipcode></University>
+<University><ID>107567 </ID><Name>University of Denver </Name><StreetAddress>2199 S. University Blvd</StreetAddress><City>Denver</City><State>CO</State><Zipcode>80208</Zipcode></University>
+<University><ID>114707 </ID><Name>University of Evansville </Name><StreetAddress>1800 Lincoln Avenue</StreetAddress><City>Evansville</City><State>IN</State><Zipcode>47722</Zipcode></University>
+<University><ID>109518 </ID><Name>University of Florida </Name><StreetAddress>355 Tigert Hall</StreetAddress><City>Gainesville</City><State>FL</State><Zipcode>32611</Zipcode></University>
+<University><ID>111346 </ID><Name>University of Georgia </Name><StreetAddress>456 East Broad Street</StreetAddress><City>Athens</City><State>GA</State><Zipcode>30602</Zipcode></University>
+<University><ID>145123 </ID><Name>University of Houston </Name><StreetAddress>4800 Calhoun Rd.</StreetAddress><City>Houston</City><State>TX</State><Zipcode>77204-2018</Zipcode></University>
+<University><ID>112172 </ID><Name>University of Idaho </Name><StreetAddress>875 Perimeter Drive</StreetAddress><City>Moscow</City><State>ID</State><Zipcode>83844-2282</Zipcode></University>
+<University><ID>116101 </ID><Name>University of Iowa </Name><StreetAddress>101 Jessup Hall</StreetAddress><City>Iowa City</City><State>IA</State><Zipcode>52242-1316</Zipcode></University>
+<University><ID>116970 </ID><Name>University of Kansas </Name><StreetAddress>230 Strong Hall 1450 Jayhawk Blvd.</StreetAddress><City>Lawrence</City><State>KS</State><Zipcode>66045-7535</Zipcode></University>
+<University><ID>117724 </ID><Name>University of Kentucky </Name><StreetAddress>101 Main Building</StreetAddress><City>Lexington</City><State>KY</State><Zipcode>40506-0032</Zipcode></University>
+<University><ID>104638 </ID><Name>University of La Verne </Name><StreetAddress>1950 Third St</StreetAddress><City>La Verne</City><State>CA</State><Zipcode>91750-4401</Zipcode></University>
+<University><ID>117812 </ID><Name>University of Louisville </Name><StreetAddress>2301 S 3rd St</StreetAddress><City>Louisville</City><State>KY</State><Zipcode>40292-0001</Zipcode></University>
+<University><ID>147767 </ID><Name>University of Mary Washington </Name><StreetAddress>1301 College Ave</StreetAddress><City>Fredericksburg</City><State>VA</State><Zipcode>22401-5300</Zipcode></University>
+<University><ID>143622 </ID><Name>University of Memphis </Name><StreetAddress>341 Administration Building</StreetAddress><City>Memphis</City><State>TN</State><Zipcode>38152</Zipcode></University>
+<University><ID>109925 </ID><Name>University of Miami </Name><StreetAddress>University Station</StreetAddress><City>Coral Gables</City><State>FL</State><Zipcode>33124</Zipcode></University>
+<University><ID>127583 </ID><Name>University of New Hampshire </Name><StreetAddress>"Thompson Hall</StreetAddress><City> 105 Main Street"</City><State>Durham</State><Zipcode>NH</Zipcode></University>
+<University><ID>134583 </ID><Name>University of North Dakota </Name><StreetAddress>264 Centennial Drive Stop 8193</StreetAddress><City>Grand Forks</City><State>ND</State><Zipcode>58202-8193</Zipcode></University>
+<University><ID>145664 </ID><Name>University of North Texas </Name><StreetAddress>1155 Union Circle #311277</StreetAddress><City>Denton</City><State>TX</State><Zipcode>76203</Zipcode></University>
+<University><ID>116262 </ID><Name>University of Northern Iowa </Name><StreetAddress>1222 W 27th St</StreetAddress><City>Cedar Falls</City><State>IA</State><Zipcode>50614</Zipcode></University>
+<University><ID>115393 </ID><Name>University of Notre Dame </Name><StreetAddress>Main Building</StreetAddress><City>Notre Dame</City><State>IN</State><Zipcode>46556</Zipcode></University>
+<University><ID>138336 </ID><Name>University of Oregon </Name><StreetAddress>110 Johnson Hall</StreetAddress><City>Eugene</City><State>OR</State><Zipcode>97403</Zipcode></University>
+<University><ID>140890 </ID><Name>University of Pennsylvania </Name><StreetAddress>3451 Walnut Street</StreetAddress><City>Philadelphia</City><State>PA</State><Zipcode>19104-6303</Zipcode></University>
+<University><ID>138433 </ID><Name>University of Portland </Name><StreetAddress>5000 N Willamette Blvd</StreetAddress><City>Portland</City><State>OR</State><Zipcode>97203-5798</Zipcode></University>
+<University><ID>148955 </ID><Name>University of Puget Sound </Name><StreetAddress>1500 N Warner</StreetAddress><City>Tacoma</City><State>WA</State><Zipcode>98416</Zipcode></University>
+<University><ID>106032 </ID><Name>University of Redlands </Name><StreetAddress>1200 E. Colton Ave</StreetAddress><City>Redlands</City><State>CA</State><Zipcode>92373-0999</Zipcode></University>
+<University><ID>141990 </ID><Name>University of Rhode Island </Name><StreetAddress>"Green Hall</StreetAddress><City> 35 Campus Avenue"</City><State>Kingston</State><Zipcode>RI</Zipcode></University>
+<University><ID>148025 </ID><Name>University of Richmond </Name><StreetAddress>28 Westhampton Way</StreetAddress><City>Richmond</City><State>VA</State><Zipcode>23173</Zipcode></University>
+<University><ID>131830 </ID><Name>University of Rochester </Name><StreetAddress>Wallis Hall</StreetAddress><City>Rochester</City><State>NY</State><Zipcode>14627</Zipcode></University>
+<University><ID>106254 </ID><Name>University of San Diego </Name><StreetAddress>5998 Alcala Park</StreetAddress><City>San Diego</City><State>CA</State><Zipcode>92110-2492</Zipcode></University>
+<University><ID>106306 </ID><Name>University of San Francisco </Name><StreetAddress>2130 Fulton St</StreetAddress><City>San Francisco</City><State>CA</State><Zipcode>94117-1080</Zipcode></University>
+<University><ID>141307 </ID><Name>University of Scranton </Name><StreetAddress>800 Linden Street</StreetAddress><City>Scranton</City><State>PA</State><Zipcode>18510-4629</Zipcode></University>
+<University><ID>110422 </ID><Name>University of South Florida </Name><StreetAddress>4202 East Fowler Ave</StreetAddress><City>Tampa</City><State>FL</State><Zipcode>33620-9951</Zipcode></University>
+<University><ID>106801 </ID><Name>University of Southern California </Name><StreetAddress>University Park</StreetAddress><City>Los Angeles</City><State>CA</State><Zipcode>90089</Zipcode></University>
+<University><ID>124919 </ID><Name>University of Southern Mississippi </Name><StreetAddress>118 College Drive # 0001</StreetAddress><City>Hattiesburg</City><State>MS</State><Zipcode>39406-0001</Zipcode></University>
+<University><ID>102155 </ID><Name>University of the Ozarks </Name><StreetAddress>415 N College Ave</StreetAddress><City>Clarksville</City><State>AR</State><Zipcode>72830</Zipcode></University>
+<University><ID>105808 </ID><Name>University of the Pacific </Name><StreetAddress>3601 Pacific Ave</StreetAddress><City>Stockton</City><State>CA</State><Zipcode>95211-0197</Zipcode></University>
+<University><ID>137005 </ID><Name>University of Toledo </Name><StreetAddress>2801 W Bancroft</StreetAddress><City>Toledo</City><State>OH</State><Zipcode>43606-3390</Zipcode></University>
+<University><ID>137865 </ID><Name>University of Tulsa </Name><StreetAddress>800 South Tucker Drive</StreetAddress><City>Tulsa</City><State>OK</State><Zipcode>74104-3189</Zipcode></University>
+<University><ID>147031 </ID><Name>University of Utah </Name><StreetAddress>201 Presidents Circle</StreetAddress><City>Salt Lake City</City><State>UT</State><Zipcode>84112-9008</Zipcode></University>
+<University><ID>147280 </ID><Name>University of Vermont </Name><StreetAddress>85 S Prospect St</StreetAddress><City>Burlington</City><State>VT</State><Zipcode>05405-0160</Zipcode></University>
+<University><ID>148256 </ID><Name>University of Virginia </Name><StreetAddress>1707 University Avenue</StreetAddress><City>Charlottesville</City><State>VA</State><Zipcode>22904</Zipcode></University>
+<University><ID>150729 </ID><Name>University of Wyoming </Name><StreetAddress>1000 E. University Ave.</StreetAddress><City>Laramie</City><State>WY</State><Zipcode>82071</Zipcode></University>
+<University><ID>147004 </ID><Name>Utah State University </Name><StreetAddress>Old Main Hill</StreetAddress><City>Logan</City><State>UT</State><Zipcode>84322-1400</Zipcode></University>
+<University><ID>147013 </ID><Name>Utah Valley University </Name><StreetAddress>800 W University Parkway</StreetAddress><City>Orem</City><State>UT</State><Zipcode>84058-5999</Zipcode></University>
+<University><ID>115649 </ID><Name>Valparaiso University </Name><StreetAddress>1700 Chapel Drive OP Kretzmann Hall</StreetAddress><City>Valparaiso</City><State>IN</State><Zipcode>46383-6493</Zipcode></University>
+<University><ID>144148 </ID><Name>Vanderbilt University </Name><StreetAddress>2101 West End Avenue</StreetAddress><City>Nashville</City><State>TN</State><Zipcode>37240</Zipcode></University>
+<University><ID>106713 </ID><Name>Vanguard University of Southern California </Name><StreetAddress>55 Fair Dr</StreetAddress><City>Costa Mesa</City><State>CA</State><Zipcode>92626</Zipcode></University>
+<University><ID>141644 </ID><Name>Villanova University </Name><StreetAddress>800 Lancaster Avenue</StreetAddress><City>Villanova</City><State>PA</State><Zipcode>19085-1699</Zipcode></University>
+<University><ID>148247 </ID><Name>Virginia Commonwealth University </Name><StreetAddress>910 W Franklin St</StreetAddress><City>Richmond</City><State>VA</State><Zipcode>23284-2512</Zipcode></University>
+<University><ID>115676 </ID><Name>Wabash College </Name><StreetAddress>P.O. Box 352</StreetAddress><City>Crawfordsville</City><State>IN</State><Zipcode>47933</Zipcode></University>
+<University><ID>134291 </ID><Name>Wake Forest University </Name><StreetAddress>1834 Wake Forest Road</StreetAddress><City>Winston Salem</City><State>NC</State><Zipcode>27106</Zipcode></University>
+<University><ID>134316 </ID><Name>Warren Wilson College </Name><StreetAddress>701 Warren Wilson Rd</StreetAddress><City>Swannanoa</City><State>NC</State><Zipcode>28778-2099</Zipcode></University>
+<University><ID>116527 </ID><Name>Wartburg College </Name><StreetAddress>100 Wartburg Blvd.</StreetAddress><City>Waverly</City><State>IA</State><Zipcode>50677-0903</Zipcode></University>
+<University><ID>148335 </ID><Name>Washington and Lee University </Name><StreetAddress>204 West Washington Street</StreetAddress><City>Lexington</City><State>VA</State><Zipcode>24450-2116</Zipcode></University>
+<University><ID>149134 </ID><Name>Washington State University </Name><StreetAddress>French Administration Building</StreetAddress><City>Pullman</City><State>WA</State><Zipcode>99164-1009</Zipcode></University>
+<University><ID>123323 </ID><Name>Wayne State University </Name><StreetAddress>656 West Kirby Street</StreetAddress><City>Detroit</City><State>MI</State><Zipcode>48202</Zipcode></University>
+<University><ID>111878 </ID><Name>Wesleyan College </Name><StreetAddress>4760 Forsyth Rd</StreetAddress><City>Macon</City><State>GA</State><Zipcode>31210-4462</Zipcode></University>
+<University><ID>149754 </ID><Name>West Virginia University </Name><StreetAddress>Presidents Office Box 6201</StreetAddress><City>Morgantown</City><State>WV</State><Zipcode>26506-6201</Zipcode></University>
+<University><ID>118222 </ID><Name>Western Kentucky University </Name><StreetAddress>1906 College Heights Blvd</StreetAddress><City>Bowling Green</City><State>KY</State><Zipcode>42101-1000</Zipcode></University>
+<University><ID>123341 </ID><Name>Western Michigan University </Name><StreetAddress>1903 West Michigan Avenue</StreetAddress><City>Kalamazoo</City><State>MI</State><Zipcode>49008-5167</Zipcode></University>
+<University><ID>149170 </ID><Name>Western Washington University </Name><StreetAddress>516 High St</StreetAddress><City>Bellingham</City><State>WA</State><Zipcode>98225-9008</Zipcode></University>
+<University><ID>141732 </ID><Name>Westminster College </Name><StreetAddress>North Market  Street</StreetAddress><City>New Wilmington</City><State>PA</State><Zipcode>16172</Zipcode></University>
+<University><ID>147059 </ID><Name>Westminster College </Name><StreetAddress>1840 South 1300 East</StreetAddress><City>Salt Lake City</City><State>UT</State><Zipcode>84105</Zipcode></University>
+<University><ID>107132 </ID><Name>Westmont College </Name><StreetAddress>955 La Paz Rd</StreetAddress><City>Santa Barbara</City><State>CA</State><Zipcode>93108-1089</Zipcode></University>
+<University><ID>114488 </ID><Name>Wheaton College </Name><StreetAddress>501 College Ave</StreetAddress><City>Wheaton</City><State>IL</State><Zipcode>60187-5593</Zipcode></University>
+<University><ID>149763 </ID><Name>Wheeling Jesuit University </Name><StreetAddress>316 Washington Ave</StreetAddress><City>Wheeling</City><State>WV</State><Zipcode>26003</Zipcode></University>
+<University><ID>107141 </ID><Name>Whittier College </Name><StreetAddress>13406 E Philadelphia Street</StreetAddress><City>Whittier</City><State>CA</State><Zipcode>90601</Zipcode></University>
+<University><ID>138585 </ID><Name>Willamette University </Name><StreetAddress>900 State St</StreetAddress><City>Salem</City><State>OR</State><Zipcode>97301</Zipcode></University>
+<University><ID>126410 </ID><Name>William Jewell College </Name><StreetAddress>500 College Hill</StreetAddress><City>Liberty</City><State>MO</State><Zipcode>64068-1896</Zipcode></University>
+<University><ID>150516 </ID><Name>Wisconsin Lutheran College </Name><StreetAddress>8800 W Bluemound Rd</StreetAddress><City>Milwaukee</City><State>WI</State><Zipcode>53226-4699</Zipcode></University>
+<University><ID>137218 </ID><Name>Wittenberg University </Name><StreetAddress>Ward St at N Wittenberg Ave</StreetAddress><City>Springfield</City><State>OH</State><Zipcode>45504</Zipcode></University>
+<University><ID>137254 </ID><Name>Xavier University </Name><StreetAddress>3800 Victory Parkway</StreetAddress><City>Cincinnati</City><State>OH</State><Zipcode>45207-1092</Zipcode></University>
+<University><ID>108676 </ID><Name>Yale University </Name><StreetAddress>105 Wall Street</StreetAddress><City>New Haven</City><State>CT</State><Zipcode>06520</Zipcode></University>
+<University><ID>132985 </ID><Name>Yeshiva University </Name><StreetAddress>500 W 185th St</StreetAddress><City>New York</City><State>NY</State><Zipcode>10033-3299</Zipcode></University>
+<University><ID>110778 </ID><Name>Agnes Scott College </Name><StreetAddress>141 E. College Ave</StreetAddress><City>Decatur</City><State>GA</State><Zipcode>30030-3797</Zipcode></University>
+<University><ID>138682 </ID><Name>Albright College </Name><StreetAddress>1621 N. 13th St.</StreetAddress><City>Reading</City><State>PA</State><Zipcode>19612-5234</Zipcode></University>
+<University><ID>138716 </ID><Name>Allegheny College </Name><StreetAddress>520 N Main St</StreetAddress><City>Meadville</City><State>PA</State><Zipcode>16335-3902</Zipcode></University>
+<University><ID>120582 </ID><Name>Amherst College </Name><StreetAddress>Boltwood Avenue</StreetAddress><City>Amherst</City><State>MA</State><Zipcode>01002-5000</Zipcode></University>
+<University><ID>144403 </ID><Name>Austin College </Name><StreetAddress>900 N Grand Ave</StreetAddress><City>Sherman</City><State>TX</State><Zipcode>75090-4400</Zipcode></University>
+<University><ID>129464 </ID><Name>Bard College </Name><StreetAddress>30 Campus Road</StreetAddress><City>Annandale-On-Hudson</City><State>NY</State><Zipcode>12504</Zipcode></University>
+<University><ID>119438 </ID><Name>Bates College </Name><StreetAddress>"2 Andrews Road</StreetAddress><City> 2 Lane Hall"</City><State>Lewiston</State><Zipcode>ME</Zipcode></University>
+<University><ID>149851 </ID><Name>Beloit College </Name><StreetAddress>700 College St</StreetAddress><City>Beloit</City><State>WI</State><Zipcode>53511-5595</Zipcode></University>
+<University><ID>147068 </ID><Name>Bennington College </Name><StreetAddress>One College Drive</StreetAddress><City>Bennington</City><State>VT</State><Zipcode>05201-6003</Zipcode></University>
+<University><ID>208424 </ID><Name>Bethel College </Name><StreetAddress>1705 Todds Lane</StreetAddress><City>Hampton</City><State>VA</State><Zipcode>23666-2366</Zipcode></University>
+<University><ID>119456 </ID><Name>Bowdoin College </Name><StreetAddress>5700 College Station - President's Office</StreetAddress><City>Brunswick</City><State>ME</State><Zipcode>04011-8448</Zipcode></University>
+<University><ID>120810 </ID><Name>Brandeis University </Name><StreetAddress>415 South St</StreetAddress><City>Waltham</City><State>MA</State><Zipcode>02454-9110</Zipcode></University>
+<University><ID>141884 </ID><Name>Bryant University </Name><StreetAddress>1150 Douglas Pike</StreetAddress><City>Smithfield</City><State>RI</State><Zipcode>02917-1284</Zipcode></University>
+<University><ID>138956 </ID><Name>Bryn Mawr College </Name><StreetAddress>101 N Merion Avenue</StreetAddress><City>Bryn Mawr</City><State>PA</State><Zipcode>19010</Zipcode></University>
+<University><ID>102793 </ID><Name>California Institute of Technology </Name><StreetAddress>1200 E California Blvd</StreetAddress><City>Pasadena</City><State>CA</State><Zipcode>91125</Zipcode></University>
+<University><ID>103194 </ID><Name>California Maritime Academy </Name><StreetAddress>200 Maritime Academy Dr</StreetAddress><City>Vallejo</City><State>CA</State><Zipcode>94590</Zipcode></University>
+<University><ID>123545 </ID><Name>Carleton College </Name><StreetAddress>One North College Street</StreetAddress><City>Northfield</City><State>MN</State><Zipcode>55057-4001</Zipcode></University>
+<University><ID>117450 </ID><Name>Centre College </Name><StreetAddress>600 W Walnut St</StreetAddress><City>Danville</City><State>KY</State><Zipcode>40422-1394</Zipcode></University>
+<University><ID>103477 </ID><Name>Claremont McKenna College </Name><StreetAddress>500 E 9th St</StreetAddress><City>Claremont</City><State>CA</State><Zipcode>91711-6400</Zipcode></University>
+<University><ID>120926 </ID><Name>Clark University </Name><StreetAddress>950 Main St</StreetAddress><City>Worcester</City><State>MA</State><Zipcode>01610-1477</Zipcode></University>
+<University><ID>119492 </ID><Name>Colby College </Name><StreetAddress>Mayflower Hill Drive</StreetAddress><City>Waterville</City><State>ME</State><Zipcode>04901</Zipcode></University>
+<University><ID>129880 </ID><Name>Colgate University </Name><StreetAddress>13 Oak Dr</StreetAddress><City>Hamilton</City><State>NY</State><Zipcode>13346-1398</Zipcode></University>
+<University><ID>112181 </ID><Name>College of Idaho </Name><StreetAddress>2112 Cleveland Boulevard</StreetAddress><City>Caldwell</City><State>ID</State><Zipcode>83605-4432</Zipcode></University>
+<University><ID>119410 </ID><Name>College of the Atlantic </Name><StreetAddress>105 Eden St</StreetAddress><City>Bar Harbor</City><State>ME</State><Zipcode>04609</Zipcode></University>
+<University><ID>107381 </ID><Name>Colorado College </Name><StreetAddress>14 East Cache La Poudre Street</StreetAddress><City>Colorado Springs</City><State>CO</State><Zipcode>80903</Zipcode></University>
+<University><ID>107433 </ID><Name>Colorado School of Mines </Name><StreetAddress>1500 Illinois St</StreetAddress><City>Golden</City><State>CO</State><Zipcode>80401</Zipcode></University>
+<University><ID>108074 </ID><Name>Connecticut College </Name><StreetAddress>270 Mohegan Ave</StreetAddress><City>New London</City><State>CT</State><Zipcode>06320</Zipcode></University>
+<University><ID>115807 </ID><Name>Cornell College </Name><StreetAddress>600 First St. SW</StreetAddress><City>Mount Vernon</City><State>IA</State><Zipcode>52314-1098</Zipcode></University>
+<University><ID>111133 </ID><Name>Covenant College </Name><StreetAddress>14049 Scenic Highway</StreetAddress><City>Lookout Mountain</City><State>GA</State><Zipcode>30750-4164</Zipcode></University>
+<University><ID>133359 </ID><Name>Davidson College </Name><StreetAddress>102 N. Main Street</StreetAddress><City>Davidson</City><State>NC</State><Zipcode>28035</Zipcode></University>
+<University><ID>135489 </ID><Name>Denison University </Name><StreetAddress>100 West College Rd</StreetAddress><City>Granville</City><State>OH</State><Zipcode>43023-0713</Zipcode></University>
+<University><ID>139287 </ID><Name>Dickinson College </Name><StreetAddress>College and Louther Streets</StreetAddress><City>Carlisle</City><State>PA</State><Zipcode>17013-2896</Zipcode></University>
+<University><ID>147545 </ID><Name>Emory and Henry College </Name><StreetAddress>One Garnand Drive</StreetAddress><City>Emory</City><State>VA</State><Zipcode>24327-0947</Zipcode></University>
+<University><ID>139612 </ID><Name>Franklin and Marshall College </Name><StreetAddress>College Ave</StreetAddress><City>Lancaster</City><State>PA</State><Zipcode>17604-3003</Zipcode></University>
+<University><ID>120023 </ID><Name>Goucher College </Name><StreetAddress>1021 Dulaney Valley Road</StreetAddress><City>Baltimore</City><State>MD</State><Zipcode>21204-2794</Zipcode></University>
+<University><ID>115959 </ID><Name>Grinnell College </Name><StreetAddress>1121 Park Street</StreetAddress><City>Grinnell</City><State>IA</State><Zipcode>50112-1690</Zipcode></University>
+<University><ID>139728 </ID><Name>Grove City College </Name><StreetAddress>100 Campus Dr</StreetAddress><City>Grove City</City><State>PA</State><Zipcode>16127-2104</Zipcode></University>
+<University><ID>130527 </ID><Name>Hamilton College </Name><StreetAddress>198 College Hill Rd</StreetAddress><City>Clinton</City><State>NY</State><Zipcode>13323</Zipcode></University>
+<University><ID>147606 </ID><Name>Hampden-Sydney College </Name><StreetAddress>"College Road</StreetAddress><City> Box 128"</City><State>Hampden-Sydney</State><Zipcode>VA</Zipcode></University>
+<University><ID>121141 </ID><Name>Hampshire College </Name><StreetAddress>893 West St</StreetAddress><City>Amherst</City><State>MA</State><Zipcode>01002-5001</Zipcode></University>
+<University><ID>104328 </ID><Name>Harvey Mudd College </Name><StreetAddress>301 Platt Blvd.</StreetAddress><City>Claremont</City><State>CA</State><Zipcode>91711</Zipcode></University>
+<University><ID>139764 </ID><Name>Haverford College </Name><StreetAddress>370 Lancaster Ave</StreetAddress><City>Haverford</City><State>PA</State><Zipcode>19041-1392</Zipcode></University>
+<University><ID>122603 </ID><Name>Hillsdale College </Name><StreetAddress>33 E. College Street</StreetAddress><City>Hillsdale</City><State>MI</State><Zipcode>49242</Zipcode></University>
+<University><ID>147633 </ID><Name>Hollins University </Name><StreetAddress>7916 Williamson Rd NW</StreetAddress><City>Roanoke</City><State>VA</State><Zipcode>24020</Zipcode></University>
+<University><ID>113193 </ID><Name>Illinois College </Name><StreetAddress>1101 W College Ave</StreetAddress><City>Jacksonville</City><State>IL</State><Zipcode>62650-2299</Zipcode></University>
+<University><ID>139913 </ID><Name>Juniata College </Name><StreetAddress>1700 Moore St</StreetAddress><City>Huntingdon</City><State>PA</State><Zipcode>16652-2196</Zipcode></University>
+<University><ID>122667 </ID><Name>Kalamazoo College </Name><StreetAddress>1200 Academy St</StreetAddress><City>Kalamazoo</City><State>MI</State><Zipcode>49006-3295</Zipcode></University>
+<University><ID>135887 </ID><Name>Kenyon College </Name><StreetAddress>106 College-Park Street</StreetAddress><City>Gambier</City><State>OH</State><Zipcode>43022</Zipcode></University>
+<University><ID>157669 </ID><Name>King's College </Name><StreetAddress>322 Lamar Avenue</StreetAddress><City>Charlotte</City><State>NC</State><Zipcode>28204</Zipcode></University>
+<University><ID>113388 </ID><Name>Knox College </Name><StreetAddress>2 East South Street</StreetAddress><City>Galesburg</City><State>IL</State><Zipcode>61401</Zipcode></University>
+<University><ID>140003 </ID><Name>Lafayette College </Name><StreetAddress>High St</StreetAddress><City>Easton</City><State>PA</State><Zipcode>18042-1768</Zipcode></University>
+<University><ID>113412 </ID><Name>Lake Forest College </Name><StreetAddress>555 N Sheridan Road</StreetAddress><City>Lake Forest</City><State>IL</State><Zipcode>60045-2399</Zipcode></University>
+<University><ID>140207 </ID><Name>Lycoming College </Name><StreetAddress>700 College Place</StreetAddress><City>Williamsport</City><State>PA</State><Zipcode>17701-5192</Zipcode></University>
+<University><ID>130943 </ID><Name>Manhattan College </Name><StreetAddress>Manhattan College Pky</StreetAddress><City>Riverdale</City><State>NY</State><Zipcode>10471-4098</Zipcode></University>
+<University><ID>130998 </ID><Name>Marist College </Name><StreetAddress>3399 North Road</StreetAddress><City>Poughkeepsie</City><State>NY</State><Zipcode>12601</Zipcode></University>
+<University><ID>147156 </ID><Name>Marlboro College </Name><StreetAddress>2582 South Rd</StreetAddress><City>Marlboro</City><State>VT</State><Zipcode>05344-0300</Zipcode></University>
+<University><ID>121415 </ID><Name>Massachusetts Institute of Technology </Name><StreetAddress>77 Massachusetts Avenue</StreetAddress><City>Cambridge</City><State>MA</State><Zipcode>02139-4307</Zipcode></University>
+<University><ID>207193 </ID><Name>Merrimack College </Name><StreetAddress>315 Turnpike St</StreetAddress><City>North Andover</City><State>MA</State><Zipcode>01845</Zipcode></University>
+<University><ID>122852 </ID><Name>Michigan Technological University </Name><StreetAddress>1400 Townsend Drive</StreetAddress><City>Houghton</City><State>MI</State><Zipcode>49931-1295</Zipcode></University>
+<University><ID>105215 </ID><Name>Mills College </Name><StreetAddress>5000 MacArthur Blvd</StreetAddress><City>Oakland</City><State>CA</State><Zipcode>94613</Zipcode></University>
+<University><ID>125851 </ID><Name>Missouri University of Science and Technology </Name><StreetAddress>1870 Miner Circle</StreetAddress><City>Rolla</City><State>MO</State><Zipcode>65409</Zipcode></University>
+<University><ID>113689 </ID><Name>Monmouth College </Name><StreetAddress>700 E Broadway</StreetAddress><City>Monmouth</City><State>IL</State><Zipcode>61462-1998</Zipcode></University>
+<University><ID>121521 </ID><Name>Mount Holyoke College </Name><StreetAddress>50 College Street</StreetAddress><City>South Hadley</City><State>MA</State><Zipcode>01075-1489</Zipcode></University>
+<University><ID>140401 </ID><Name>Muhlenberg College </Name><StreetAddress>2400 Chew Street</StreetAddress><City>Allentown</City><State>PA</State><Zipcode>18104</Zipcode></University>
+<University><ID>153296 </ID><Name>New College of Florida </Name><StreetAddress>5800 Bay Shore Road</StreetAddress><City>Sarasota</City><State>FL</State><Zipcode>34243-2109</Zipcode></University>
+<University><ID>128443 </ID><Name>New Jersey Institute of Technology </Name><StreetAddress>University Heights</StreetAddress><City>Newark</City><State>NJ</State><Zipcode>07102</Zipcode></University>
+<University><ID>129066 </ID><Name>New Mexico Institute of Mining and Technology </Name><StreetAddress>801 Leroy Place</StreetAddress><City>Socorro</City><State>NM</State><Zipcode>87801</Zipcode></University>
+<University><ID>113801 </ID><Name>North Central College </Name><StreetAddress>30 N Brainard St</StreetAddress><City>Naperville</City><State>IL</State><Zipcode>60540</Zipcode></University>
+<University><ID>105659 </ID><Name>Occidental College </Name><StreetAddress>1600 Campus Rd</StreetAddress><City>Los Angeles</City><State>CA</State><Zipcode>90041-3392</Zipcode></University>
+<University><ID>111610 </ID><Name>Oglethorpe University </Name><StreetAddress>4484 Peachtree Rd NE</StreetAddress><City>Atlanta</City><State>GA</State><Zipcode>30319-2797</Zipcode></University>
+<University><ID>105923 </ID><Name>Pitzer College </Name><StreetAddress>1050 North Mills Avenue</StreetAddress><City>Claremont</City><State>CA</State><Zipcode>91711-6101</Zipcode></University>
+<University><ID>105950 </ID><Name>Pomona College </Name><StreetAddress>"550 N College Avenue</StreetAddress><City>  Alexander Hall"</City><State>Claremont</State><Zipcode>CA</Zipcode></University>
+<University><ID>128540 </ID><Name>Princeton University </Name><StreetAddress>One Nassau Hall</StreetAddress><City>Princeton</City><State>NJ</State><Zipcode>08544-0070</Zipcode></University>
+<University><ID>113944 </ID><Name>Principia College </Name><StreetAddress>1 Maybeck Place</StreetAddress><City>Elsah</City><State>IL</State><Zipcode>62028-9799</Zipcode></University>
+<University><ID>147961 </ID><Name>Randolph-Macon College </Name><StreetAddress>204 Henry Street</StreetAddress><City>Ashland</City><State>VA</State><Zipcode>23005-5505</Zipcode></University>
+<University><ID>138442 </ID><Name>Reed College </Name><StreetAddress>3203 SE Woodstock Boulevard</StreetAddress><City>Portland</City><State>OR</State><Zipcode>97202-8199</Zipcode></University>
+<University><ID>131779 </ID><Name>Rensselaer Polytechnic Institute </Name><StreetAddress>110 8th St</StreetAddress><City>Troy</City><State>NY</State><Zipcode>12180-3590</Zipcode></University>
+<University><ID>145831 </ID><Name>Rice University </Name><StreetAddress>6100 S Main</StreetAddress><City>Houston</City><State>TX</State><Zipcode>77005</Zipcode></University>
+<University><ID>150260 </ID><Name>Ripon College </Name><StreetAddress>300 Seward St</StreetAddress><City>Ripon</City><State>WI</State><Zipcode>54971-0248</Zipcode></University>
+<University><ID>148061 </ID><Name>Roanoke College </Name><StreetAddress>221 College Ln</StreetAddress><City>Salem</City><State>VA</State><Zipcode>24153-3794</Zipcode></University>
+<University><ID>126696 </ID><Name>Rocky Mountain College </Name><StreetAddress>1511 Poly Drive</StreetAddress><City>Billings</City><State>MT</State><Zipcode>59102-1796</Zipcode></University>
+<University><ID>142018 </ID><Name>Roger Williams University </Name><StreetAddress>One Old Ferry Rd</StreetAddress><City>Bristol</City><State>RI</State><Zipcode>02809-2923</Zipcode></University>
+<University><ID>131973 </ID><Name>Sarah Lawrence College </Name><StreetAddress>One Meadway</StreetAddress><City>Bronxville</City><State>NY</State><Zipcode>10708</Zipcode></University>
+<University><ID>106500 </ID><Name>Scripps College </Name><StreetAddress>1030 N Columbia Ave</StreetAddress><City>Claremont</City><State>CA</State><Zipcode>91711-3948</Zipcode></University>
+<University><ID>121877 </ID><Name>Smith College </Name><StreetAddress>Elm St</StreetAddress><City>Northampton</City><State>MA</State><Zipcode>01063</Zipcode></University>
+<University><ID>128762 </ID><Name>Stevens Institute of Technology </Name><StreetAddress>Castle Point On Hudson</StreetAddress><City>Hoboken</City><State>NJ</State><Zipcode>07030-5991</Zipcode></University>
+<University><ID>121929 </ID><Name>Stonehill College </Name><StreetAddress>320 Washington Street</StreetAddress><City>Easton</City><State>MA</State><Zipcode>02357-6110</Zipcode></University>
+<University><ID>141477 </ID><Name>Swarthmore College </Name><StreetAddress>500 College Ave</StreetAddress><City>Swarthmore</City><State>PA</State><Zipcode>19081</Zipcode></University>
+<University><ID>148159 </ID><Name>Sweet Briar College </Name><StreetAddress>134 Chapel Drive</StreetAddress><City>Sweet Briar</City><State>VA</State><Zipcode>24595-9998</Zipcode></University>
+<University><ID>106856 </ID><Name>Thomas Aquinas College </Name><StreetAddress>10000 N Ojai Rd</StreetAddress><City>Santa Paula</City><State>CA</State><Zipcode>93060</Zipcode></University>
+<University><ID>108597 </ID><Name>Trinity College </Name><StreetAddress>300 Summit St</StreetAddress><City>Hartford</City><State>CT</State><Zipcode>06106-3100</Zipcode></University>
+<University><ID>169327 </ID><Name>Trinity College </Name><StreetAddress>934 Missouri Street</StreetAddress><City>Fairfield</City><State>CA</State><Zipcode>94533-6116</Zipcode></University>
+<University><ID>189389 </ID><Name>Union College </Name><StreetAddress>807 Union Street</StreetAddress><City>Schenectady</City><State>NY</State><Zipcode>12308-3107</Zipcode></University>
+<University><ID>174376 </ID><Name>United States Air Force Academy </Name><StreetAddress>"2304 Cadet Drive</StreetAddress><City> Suite 3300"</City><State>USAF Academy</State><Zipcode>CO</Zipcode></University>
+<University><ID>108612 </ID><Name>United States Coast Guard Academy </Name><StreetAddress>15 Mohegan Avenue</StreetAddress><City>New London</City><State>CT</State><Zipcode>06320-4195</Zipcode></University>
+<University><ID>132763 </ID><Name>United States Merchant Marine Academy </Name><StreetAddress>Steamboat Rd</StreetAddress><City>Kings Point</City><State>NY</State><Zipcode>11024-1699</Zipcode></University>
+<University><ID>132772 </ID><Name>United States Military Academy </Name><StreetAddress>Institutional Research/Analysis Branch</StreetAddress><City>West  Point</City><State>NY</State><Zipcode>10996-2101</Zipcode></University>
+<University><ID>120476 </ID><Name>United States Naval Academy </Name><StreetAddress>121 Blake Road</StreetAddress><City>Annapolis</City><State>MD</State><Zipcode>21402-5000</Zipcode></University>
+<University><ID>141608 </ID><Name>Ursinus College </Name><StreetAddress>601 E. Main St</StreetAddress><City>Collegeville</City><State>PA</State><Zipcode>19426-1000</Zipcode></University>
+<University><ID>132815 </ID><Name>Vassar College </Name><StreetAddress>124 Raymond Ave</StreetAddress><City>Poughkeepsie</City><State>NY</State><Zipcode>12604</Zipcode></University>
+<University><ID>148265 </ID><Name>Virginia Military Institute </Name><StreetAddress></StreetAddress><City>Lexington</City><State>VA</State><Zipcode>24450-0304</Zipcode></University>
+<University><ID>120519 </ID><Name>Washington College </Name><StreetAddress>300 Washington Ave</StreetAddress><City>Chestertown</City><State>MD</State><Zipcode>21620-1438</Zipcode></University>
+<University><ID>121965 </ID><Name>Wellesley College </Name><StreetAddress>106 Central St</StreetAddress><City>Wellesley</City><State>MA</State><Zipcode>02481-8203</Zipcode></University>
+<University><ID>132879 </ID><Name>Wells College </Name><StreetAddress>170 State Rte 90</StreetAddress><City>Aurora</City><State>NY</State><Zipcode>13026-0500</Zipcode></University>
+<University><ID>108630 </ID><Name>Wesleyan University </Name><StreetAddress>237 High St</StreetAddress><City>Middletown</City><State>CT</State><Zipcode>06459</Zipcode></University>
+<University><ID>126401 </ID><Name>Westminster College </Name><StreetAddress>501 Westminster Ave</StreetAddress><City>Fulton</City><State>MO</State><Zipcode>65251-1299</Zipcode></University>
+<University><ID>122010 </ID><Name>Wheaton College </Name><StreetAddress>26 E Main St</StreetAddress><City>Norton</City><State>MA</State><Zipcode>02766</Zipcode></University>
+<University><ID>149198 </ID><Name>Whitman College </Name><StreetAddress>345 Boyer Ave</StreetAddress><City>Walla Walla</City><State>WA</State><Zipcode>99362</Zipcode></University>
+<University><ID>122038 </ID><Name>Williams College </Name><StreetAddress>880 Main St</StreetAddress><City>Williamstown</City><State>MA</State><Zipcode>01267</Zipcode></University>
+<University><ID>142744 </ID><Name>Wofford College </Name><StreetAddress>429 N Church St</StreetAddress><City>Spartanburg</City><State>SC</State><Zipcode>29303-3663</Zipcode></University>
+<University><ID>122047 </ID><Name>Worcester Polytechnic Institute </Name><StreetAddress>100 Institute Road</StreetAddress><City>Worcester</City><State>MA</State><Zipcode>01609-2280</Zipcode></University>
+</Universities>

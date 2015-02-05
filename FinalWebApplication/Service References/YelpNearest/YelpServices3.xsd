@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/YelpSharp.Data" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/YelpSharp.Data" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://webstrar23.fulton.asu.edu/Page0/Page01/YelpServices.YelpService.svc?xsd=xsd4" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <xs:complexType name="ArrayOfBusiness">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Business" nillable="true" type="tns:Business" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBusiness" nillable="true" type="tns:ArrayOfBusiness" />
+  <xs:complexType name="Business">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="categories" nillable="true" type="q1:ArrayOfArrayOfstring" />
+      <xs:element minOccurs="0" name="deals" nillable="true" type="tns:ArrayOfDeal" />
+      <xs:element minOccurs="0" name="display_phone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="distance" type="xs:double" />
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="image_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="is_claimed" type="xs:boolean" />
+      <xs:element minOccurs="0" name="is_closed" type="xs:boolean" />
+      <xs:element minOccurs="0" name="location" nillable="true" type="tns:Location" />
+      <xs:element minOccurs="0" name="mobile_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="phone" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rating" type="xs:double" />
+      <xs:element minOccurs="0" name="rating_img_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rating_img_url_large" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rating_img_url_small" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="review_count" type="xs:int" />
+      <xs:element minOccurs="0" name="reviews" nillable="true" type="tns:ArrayOfReview" />
+      <xs:element minOccurs="0" name="snippet_image_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="snippet_text" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="url" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Business" nillable="true" type="tns:Business" />
+  <xs:complexType name="ArrayOfDeal">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Deal" nillable="true" type="tns:Deal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDeal" nillable="true" type="tns:ArrayOfDeal" />
+  <xs:complexType name="Deal">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="additional_restrictions" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="currency_code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="image_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="important_restrictions" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="options" nillable="true" type="tns:ArrayOfDealOptions" />
+      <xs:element minOccurs="0" name="time_end" type="xs:double" />
+      <xs:element minOccurs="0" name="time_start" type="xs:double" />
+      <xs:element minOccurs="0" name="title" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="what_you_get" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Deal" nillable="true" type="tns:Deal" />
+  <xs:complexType name="ArrayOfDealOptions">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="DealOptions" nillable="true" type="tns:DealOptions" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDealOptions" nillable="true" type="tns:ArrayOfDealOptions" />
+  <xs:complexType name="DealOptions">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="formatted_original_price" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="formatted_price" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="is_quantity_limited" type="xs:boolean" />
+      <xs:element minOccurs="0" name="original_price" type="xs:double" />
+      <xs:element minOccurs="0" name="price" type="xs:double" />
+      <xs:element minOccurs="0" name="purchase_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="remaining_count" type="xs:double" />
+      <xs:element minOccurs="0" name="title" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DealOptions" nillable="true" type="tns:DealOptions" />
+  <xs:complexType name="Location">
+    <xs:sequence>
+      <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="address" nillable="true" type="q2:ArrayOfstring" />
+      <xs:element minOccurs="0" name="city" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="coordinate" nillable="true" type="tns:Coordinate" />
+      <xs:element minOccurs="0" name="country_code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="cross_streets" nillable="true" type="xs:string" />
+      <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="display_address" nillable="true" type="q3:ArrayOfstring" />
+      <xs:element minOccurs="0" name="geo_accuracy" type="xs:double" />
+      <xs:element xmlns:q4="http://schemas.microsoft.com/2003/10/Serialization/Arrays" minOccurs="0" name="neighborhoods" nillable="true" type="q4:ArrayOfstring" />
+      <xs:element minOccurs="0" name="postal_code" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="state_code" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Location" nillable="true" type="tns:Location" />
+  <xs:complexType name="Coordinate">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="latitude" type="xs:double" />
+      <xs:element minOccurs="0" name="longitude" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Coordinate" nillable="true" type="tns:Coordinate" />
+  <xs:complexType name="ArrayOfReview">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Review" nillable="true" type="tns:Review" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfReview" nillable="true" type="tns:ArrayOfReview" />
+  <xs:complexType name="Review">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="excerpt" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rating" type="xs:double" />
+      <xs:element minOccurs="0" name="rating_img_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rating_img_url_large" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="rating_img_url_small" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="time_created" type="xs:double" />
+      <xs:element minOccurs="0" name="user" nillable="true" type="tns:User" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Review" nillable="true" type="tns:Review" />
+  <xs:complexType name="User">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="id" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="image_url" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="name" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="User" nillable="true" type="tns:User" />
+  <xs:complexType name="Region">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="center" nillable="true" type="tns:Coordinate" />
+      <xs:element minOccurs="0" name="span" nillable="true" type="tns:Span" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Region" nillable="true" type="tns:Region" />
+  <xs:complexType name="Span">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="latitude_delta" type="xs:double" />
+      <xs:element minOccurs="0" name="longitude_delta" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Span" nillable="true" type="tns:Span" />
+</xs:schema>
